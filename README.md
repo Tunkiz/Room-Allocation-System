@@ -1,2 +1,2 @@
-# Online-Money-Market
-a peer to peer system where people buy and sell coins after maturity.
+# Room-Allocatio system
+i'm still working on the student front end
